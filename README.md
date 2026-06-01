@@ -7,7 +7,6 @@ MonoSandbox is a mod for the virtual reality game Gorilla Tag which introduces a
 - A polished experience used by hundreds of players
 
 ###
-Why Does It Have Modded In The Name Because This One Only works In Modded Servers
+This One Works Anywhere Not Just Moddeds So Be Careful
 
 #### <i>This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC.</i>
-"# MonoSandbox-Modded" 
